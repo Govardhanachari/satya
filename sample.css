@@ -1,0 +1,38 @@
+body{
+color: rgb(46, 241, 245);
+background-image: url("https://img.freepik.com/free-vector/gradient-abstract-background-with-different-shapes_23-2149110301.jpg?w=996&t=st=1724823239~exp=1724823839~hmac=b7c5c6ecc346968271840ff79993c02ec86eb768425f71b9c2bc75e2c5ee333c");
+background-size: cover;
+}
+
+.flex-container{
+display:flex;
+}
+
+.navbar-brand {
+background:none;
+border:none;
+font-size:30px;
+
+}
+
+
+form { 
+margin-top: 200px;
+}
+
+a {
+color: brown;
+text-decoration: none;
+border: 2px solid black;
+background-color: white;
+} 
+
+
+#submit {
+background-color: Violet;
+color: blue;
+}
+
+a:hover {
+color: blue;
+}
